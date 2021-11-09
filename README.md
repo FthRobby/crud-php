@@ -1,2 +1,2 @@
 # crud-php-native
-hasil belajar CRUD menggunakan php native
+CRUD menggunakan php native
